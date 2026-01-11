@@ -1,1 +1,4 @@
-[![pjongy GitHub stats](https://github-readme-stats.vercel.app/api?username=pjongy&show_icons=true)](https://github.com/pjongy)
+- 7+ years paid software engineer (2019~)
+  - distributed computing
+  - ML software engineer (inference)
+- 5+ years offensive cyber security (2013~2019)
